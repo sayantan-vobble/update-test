@@ -1,0 +1,6 @@
+{
+  "title": "App Patch",
+  "description": "Critical app fix.",
+  "version": 25,
+  "apkUrl": "https://downloads.example.com/apks/app.apk"
+}
